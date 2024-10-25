@@ -1,4 +1,4 @@
-# Juan's Devcontainer Features:
+# Glav's Devcontainer Features (which I mostly stole/copied from others):
 
 set of features I use and I think should be included in the registry.
 
