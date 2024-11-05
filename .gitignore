@@ -1,0 +1,9 @@
+.env
+.vscode
+.local
+node_modules
+dist
+__pycache__
+output
+*.log
+ git-credential-manager/

@@ -34,7 +34,7 @@ llm_instructions: |
   test(auth): add unit tests for login functionality
   perf(core): improve rendering performance by optimizing the DOM updates
 api_version: 2024-02-15-preview
-azure_endpoint: https://generic-aoai-01.openai.azure.com/
+azure_endpoint: https://aoai-evaltest.openai.azure.com/
 connection_type: azure
 model_deployment_name: gpt-4o
 should_commit: true
